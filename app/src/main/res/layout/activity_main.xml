@@ -20,7 +20,7 @@
         android:textColor="@color/white"
         android:textSize="35dp"
         android:textStyle="bold" />
-    <EditText
+        <EditText
         android:id="@+id/username"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
